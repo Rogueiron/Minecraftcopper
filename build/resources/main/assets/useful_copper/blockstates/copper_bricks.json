@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "useful_copper:block/copper_bricks"
+    },
+    "facing=east": {
+      "model": "useful_copper:block/copper_bricks",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "useful_copper:block/copper_bricks",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "useful_copper:block/copper_bricks",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "useful_copper:block/copper_bricks",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "useful_copper:block/copper_bricks",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.FLINT"
+      },
+      {
+        "value": "Items.FLINT"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CopperPlanks"
+      },
+      {
+        "value": "CUSTOM:CopperPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CopperPlanks"
+      },
+      {
+        "value": "CUSTOM:CopperPlanks"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.FLETCHING_TABLE"
+    },
+    "name": "copper_fletching_table_recipe",
+    "namespace": "mod"
+  }
+}

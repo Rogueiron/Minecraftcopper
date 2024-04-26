@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "useful_copper:block/copper_planks",
+    "up": "useful_copper:block/copper_planks",
+    "north": "useful_copper:block/copper_planks",
+    "east": "useful_copper:block/copper_planks",
+    "south": "useful_copper:block/copper_planks",
+    "west": "useful_copper:block/copper_planks",
+    "particle": "useful_copper:block/copper_planks"
+  },
+  "render_type": "solid"
+}

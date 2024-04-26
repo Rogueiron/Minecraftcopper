@@ -1,0 +1,11 @@
+{
+  "copperdream": {
+    "subtitle": "subtitles.copperdream",
+    "sounds": [
+      {
+        "name": "useful_copper:glitched_reality_-_copper_dreams",
+        "stream": true
+      }
+    ]
+  }
+}

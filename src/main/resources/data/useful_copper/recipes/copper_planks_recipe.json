@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "useful_copper:copper_log"
+    }
+  ],
+  "result": {
+    "item": "useful_copper:copper_planks",
+    "count": 4
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "_fv": 57,
+  "_type": "projectile",
+  "definition": {
+    "projectileItem": {
+      "value": "CUSTOM:CopperTridenttool"
+    },
+    "showParticles": false,
+    "actionSound": {
+      "value": "item.trident.throw"
+    },
+    "igniteFire": false,
+    "power": 1.5,
+    "damage": 5.0,
+    "knockback": 3,
+    "entityModel": "ModelTridentCopper_Converted",
+    "customModelTexture": "trident.png"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "ba",
+    "b "
+  ],
+  "key": {
+    "a": {
+      "tag": "minecraft:planks"
+    },
+    "b": {
+      "item": "useful_copper:copper_rod"
+    }
+  },
+  "result": {
+    "item": "useful_copper:wooden_copper_reinforced_axe",
+    "count": 1
+  }
+}

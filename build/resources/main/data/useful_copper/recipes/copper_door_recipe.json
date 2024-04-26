@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "useful_copper:copper_planks"
+    }
+  },
+  "result": {
+    "item": "minecraft:oak_door",
+    "count": 1
+  }
+}

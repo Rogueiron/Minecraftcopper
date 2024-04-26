@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": "Blocks.SOUL_SAND"
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": "CUSTOM:CopperLog"
+      },
+      {
+        "value": "CUSTOM:CopperLog"
+      },
+      {
+        "value": "CUSTOM:CopperLog"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.SOUL_CAMPFIRE"
+    },
+    "name": "copper_soul_campfire_recipe",
+    "namespace": "mod"
+  }
+}

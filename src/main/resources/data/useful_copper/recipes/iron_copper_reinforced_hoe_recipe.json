@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "b ",
+    "b "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "useful_copper:copper_rod"
+    }
+  },
+  "result": {
+    "item": "useful_copper:iron_copper_reinforced_hoe",
+    "count": 1
+  }
+}

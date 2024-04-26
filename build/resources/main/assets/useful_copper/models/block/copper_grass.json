@@ -1,0 +1,11 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "useful_copper:block/copper_dirt",
+    "top": "useful_copper:block/copper_grass_block_top",
+    "side": "useful_copper:block/copper_grass_block_side",
+    "overlay": "useful_copper:block/copper_grass_block_side",
+    "particle": "useful_copper:block/copper_dirt"
+  },
+  "render_type": "solid"
+}

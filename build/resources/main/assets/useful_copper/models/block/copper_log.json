@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "useful_copper:block/copper_log_top",
+    "up": "useful_copper:block/copper_log_top",
+    "north": "useful_copper:block/copper_log",
+    "east": "useful_copper:block/copper_log",
+    "south": "useful_copper:block/copper_log",
+    "west": "useful_copper:block/copper_log",
+    "particle": "useful_copper:block/copper_log_top"
+  },
+  "render_type": "solid"
+}

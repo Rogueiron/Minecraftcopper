@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "useful_copper:block/copper_dirt",
+    "up": "useful_copper:block/copper_dirt",
+    "north": "useful_copper:block/copper_dirt",
+    "east": "useful_copper:block/copper_dirt",
+    "south": "useful_copper:block/copper_dirt",
+    "west": "useful_copper:block/copper_dirt",
+    "particle": "useful_copper:block/copper_dirt"
+  },
+  "render_type": "solid"
+}

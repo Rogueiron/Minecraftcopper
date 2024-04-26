@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "b ",
+    "b "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:cobblestone"
+    },
+    "b": {
+      "item": "useful_copper:copper_rod"
+    }
+  },
+  "result": {
+    "item": "useful_copper:stone_copper_reinforced_hoe",
+    "count": 1
+  }
+}

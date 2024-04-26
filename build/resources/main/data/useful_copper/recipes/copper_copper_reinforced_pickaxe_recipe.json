@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    " b ",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:copper_ingot"
+    },
+    "b": {
+      "item": "useful_copper:copper_rod"
+    }
+  },
+  "result": {
+    "item": "useful_copper:copper_copper_reinforced_pickaxe",
+    "count": 1
+  }
+}

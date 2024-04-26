@@ -1,0 +1,1942 @@
+{
+  "mod_elements": [
+    {
+      "name": "Copperhelmet",
+      "type": "recipe",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copperhelmet",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copperhelmet.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "Copperleggings",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copperleggings",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copperleggings.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "Copperchestplate",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copperchestplate",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copperchestplate.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "Copperboots",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copperboots",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copperboots.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "Copper",
+      "type": "achievement",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/advancements/copper.json"
+        ]
+      },
+      "path": "~/Advancements"
+    },
+    {
+      "name": "RawCopper",
+      "type": "achievement",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raw_copper",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/advancements/raw_copper.json"
+        ]
+      },
+      "path": "~/Advancements"
+    },
+    {
+      "name": "CopperPickaxe",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/usefulcopper/item/CopperPickaxeItem.java",
+          "src/main/resources/assets/useful_copper/models/item/copper_pickaxe.json"
+        ]
+      },
+      "path": "~/Weapons"
+    },
+    {
+      "name": "CopperSword",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_sword",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/usefulcopper/item/CopperSwordItem.java",
+          "src/main/resources/assets/useful_copper/models/item/copper_sword.json"
+        ]
+      },
+      "path": "~/Weapons"
+    },
+    {
+      "name": "CopperAxe",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_axe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/useful_copper/models/item/copper_axe.json",
+          "src/main/java/net/mcreator/usefulcopper/item/CopperAxeItem.java"
+        ]
+      },
+      "path": "~/Weapons"
+    },
+    {
+      "name": "CopperShovel",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_shovel",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/usefulcopper/item/CopperShovelItem.java",
+          "src/main/resources/assets/useful_copper/models/item/copper_shovel.json"
+        ]
+      },
+      "path": "~/Weapons"
+    },
+    {
+      "name": "CopperHoe",
+      "type": "tool",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_hoe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/usefulcopper/item/CopperHoeItem.java",
+          "src/main/resources/assets/useful_copper/models/item/copper_hoe.json"
+        ]
+      },
+      "path": "~/Weapons"
+    },
+    {
+      "name": "CopperSwordRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_sword_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_sword_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperAxeRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_axe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_axe_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperShovelRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_shovel_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_shovel_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_pickaxe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_pickaxe_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperHoeRecipe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_hoe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_hoe_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "Coppertrident",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coppertrident",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/coppertrident.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperUseful",
+      "type": "achievement",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_useful",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/advancements/copper_useful.json"
+        ]
+      },
+      "path": "~/Advancements"
+    },
+    {
+      "name": "GetCopperItem",
+      "type": "procedure",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "get_copper_item",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/usefulcopper/procedures/GetCopperItemProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Code"
+    },
+    {
+      "name": "CopperDent",
+      "type": "item",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_dent",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/usefulcopper/item/CopperDentItem.java",
+          "src/main/resources/assets/useful_copper/models/item/copper_dent.json"
+        ]
+      },
+      "path": "~/Weapons"
+    },
+    {
+      "name": "CopperTridenttool",
+      "type": "item",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_tridenttool",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/usefulcopper/item/CopperTridenttoolItem.java",
+          "src/main/resources/assets/useful_copper/models/item/copper_tridenttool.json"
+        ]
+      },
+      "path": "~/Weapons"
+    },
+    {
+      "name": "CopperTridentThrow",
+      "type": "projectile",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_trident_throw",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/usefulcopper/entity/CopperTridentThrowEntity.java",
+          "src/main/java/net/mcreator/usefulcopper/client/renderer/CopperTridentThrowRenderer.java"
+        ]
+      },
+      "path": "~/Weapons"
+    },
+    {
+      "name": "CopperRod",
+      "type": "item",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_rod",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/usefulcopper/item/CopperRodItem.java",
+          "src/main/resources/assets/useful_copper/models/item/copper_rod.json"
+        ]
+      },
+      "path": "~/Weapons"
+    },
+    {
+      "name": "CopperRodRecipe",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_rod_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_rod_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperDentRecipe",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_dent_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_dent_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "WoodenCopperReinforcedSword",
+      "type": "tool",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wooden_copper_reinforced_sword",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/usefulcopper/item/WoodenCopperReinforcedSwordItem.java",
+          "src/main/resources/assets/useful_copper/models/item/wooden_copper_reinforced_sword.json"
+        ]
+      },
+      "path": "~/Weapons"
+    },
+    {
+      "name": "WoodenCopperReinforceSwordRecipe",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wooden_copper_reinforce_sword_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/wooden_copper_reinforce_sword_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "StoneCopperReinforcedSword",
+      "type": "tool",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_copper_reinforced_sword",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/useful_copper/models/item/stone_copper_reinforced_sword.json",
+          "src/main/java/net/mcreator/usefulcopper/item/StoneCopperReinforcedSwordItem.java"
+        ]
+      },
+      "path": "~/Weapons"
+    },
+    {
+      "name": "StoneCopperReinforceSwordRecipe",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_copper_reinforce_sword_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/stone_copper_reinforce_sword_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperArmor",
+      "type": "armor",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_armor",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/useful_copper/models/item/copper_armor_boots.json",
+          "src/main/java/net/mcreator/usefulcopper/item/CopperArmorItem.java",
+          "src/main/resources/assets/useful_copper/models/item/copper_armor_leggings.json",
+          "src/main/resources/assets/useful_copper/models/item/copper_armor_helmet.json",
+          "src/main/resources/assets/useful_copper/models/item/copper_armor_chestplate.json"
+        ]
+      },
+      "path": "~/Armor"
+    },
+    {
+      "name": "CopperCopperReinforceSword",
+      "type": "tool",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_copper_reinforce_sword",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/useful_copper/models/item/copper_copper_reinforce_sword.json",
+          "src/main/java/net/mcreator/usefulcopper/item/CopperCopperReinforceSwordItem.java"
+        ]
+      },
+      "path": "~/Weapons"
+    },
+    {
+      "name": "CopperCopperReinforcedPickaxe",
+      "type": "tool",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_copper_reinforced_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/usefulcopper/item/CopperCopperReinforcedPickaxeItem.java",
+          "src/main/resources/assets/useful_copper/models/item/copper_copper_reinforced_pickaxe.json"
+        ]
+      },
+      "path": "~/Weapons"
+    },
+    {
+      "name": "CopperCopperReinforcedPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_copper_reinforced_pickaxe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_copper_reinforced_pickaxe_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperCopperReinforcedSwordRecipe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_copper_reinforced_sword_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_copper_reinforced_sword_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "WoodenCopperReinforcedAxe",
+      "type": "tool",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wooden_copper_reinforced_axe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/useful_copper/models/item/wooden_copper_reinforced_axe.json",
+          "src/main/java/net/mcreator/usefulcopper/item/WoodenCopperReinforcedAxeItem.java"
+        ]
+      },
+      "path": "~/Weapons"
+    },
+    {
+      "name": "WoodenCopperReinforcedShovel",
+      "type": "tool",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wooden_copper_reinforced_shovel",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/usefulcopper/item/WoodenCopperReinforcedShovelItem.java",
+          "src/main/resources/assets/useful_copper/models/item/wooden_copper_reinforced_shovel.json"
+        ]
+      },
+      "path": "~/Weapons"
+    },
+    {
+      "name": "WoodenCopperReinforcedPickaxe",
+      "type": "tool",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wooden_copper_reinforced_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/usefulcopper/item/WoodenCopperReinforcedPickaxeItem.java",
+          "src/main/resources/assets/useful_copper/models/item/wooden_copper_reinforced_pickaxe.json"
+        ]
+      },
+      "path": "~/Weapons"
+    },
+    {
+      "name": "WoodenCopperReinforcedHoe",
+      "type": "tool",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wooden_copper_reinforced_hoe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/useful_copper/models/item/wooden_copper_reinforced_hoe.json",
+          "src/main/java/net/mcreator/usefulcopper/item/WoodenCopperReinforcedHoeItem.java"
+        ]
+      },
+      "path": "~/Weapons"
+    },
+    {
+      "name": "StoneCopperReinforcedAxe",
+      "type": "tool",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_copper_reinforced_axe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/useful_copper/models/item/stone_copper_reinforced_axe.json",
+          "src/main/java/net/mcreator/usefulcopper/item/StoneCopperReinforcedAxeItem.java"
+        ]
+      },
+      "path": "~/Weapons"
+    },
+    {
+      "name": "StoneCopperReinforcedShovel",
+      "type": "tool",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_copper_reinforced_shovel",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/useful_copper/models/item/stone_copper_reinforced_shovel.json",
+          "src/main/java/net/mcreator/usefulcopper/item/StoneCopperReinforcedShovelItem.java"
+        ]
+      },
+      "path": "~/Weapons"
+    },
+    {
+      "name": "StoneCopperReinforcedPickaxe",
+      "type": "tool",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_copper_reinforced_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/useful_copper/models/item/stone_copper_reinforced_pickaxe.json",
+          "src/main/java/net/mcreator/usefulcopper/item/StoneCopperReinforcedPickaxeItem.java"
+        ]
+      },
+      "path": "~/Weapons"
+    },
+    {
+      "name": "StoneCopperReinforcedHoe",
+      "type": "tool",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_copper_reinforced_hoe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/useful_copper/models/item/stone_copper_reinforced_hoe.json",
+          "src/main/java/net/mcreator/usefulcopper/item/StoneCopperReinforcedHoeItem.java"
+        ]
+      },
+      "path": "~/Weapons"
+    },
+    {
+      "name": "IronCopperReinforcedSword",
+      "type": "tool",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_copper_reinforced_sword",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/useful_copper/models/item/iron_copper_reinforced_sword.json",
+          "src/main/java/net/mcreator/usefulcopper/item/IronCopperReinforcedSwordItem.java"
+        ]
+      },
+      "path": "~/Weapons"
+    },
+    {
+      "name": "IronCopperReinforcedShovel",
+      "type": "tool",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_copper_reinforced_shovel",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/usefulcopper/item/IronCopperReinforcedShovelItem.java",
+          "src/main/resources/assets/useful_copper/models/item/iron_copper_reinforced_shovel.json"
+        ]
+      },
+      "path": "~/Weapons"
+    },
+    {
+      "name": "CopperCopperReinforceSwordRightclicked",
+      "type": "procedure",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_copper_reinforce_sword_rightclicked",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/usefulcopper/procedures/CopperCopperReinforceSwordRightclickedProcedure.java"
+        ],
+        "dependencies": []
+      },
+      "path": "~/Code"
+    },
+    {
+      "name": "IronCopperReinforcedPickaxe",
+      "type": "tool",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_copper_reinforced_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/usefulcopper/item/IronCopperReinforcedPickaxeItem.java",
+          "src/main/resources/assets/useful_copper/models/item/iron_copper_reinforced_pickaxe.json"
+        ]
+      },
+      "path": "~/Weapons"
+    },
+    {
+      "name": "IronCopperReinforcedAxe",
+      "type": "tool",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_copper_reinforced_axe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/useful_copper/models/item/iron_copper_reinforced_axe.json",
+          "src/main/java/net/mcreator/usefulcopper/item/IronCopperReinforcedAxeItem.java"
+        ]
+      },
+      "path": "~/Weapons"
+    },
+    {
+      "name": "IronCopperReinforcedHoe",
+      "type": "tool",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_copper_reinforced_hoe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/useful_copper/models/item/iron_copper_reinforced_hoe.json",
+          "src/main/java/net/mcreator/usefulcopper/item/IronCopperReinforcedHoeItem.java"
+        ]
+      },
+      "path": "~/Weapons"
+    },
+    {
+      "name": "CopperCopperReinforcedShovel",
+      "type": "tool",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_copper_reinforced_shovel",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/usefulcopper/item/CopperCopperReinforcedShovelItem.java",
+          "src/main/resources/assets/useful_copper/models/item/copper_copper_reinforced_shovel.json"
+        ]
+      },
+      "path": "~/Weapons"
+    },
+    {
+      "name": "CopperCopperReinforcedHoe",
+      "type": "tool",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_copper_reinforced_hoe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/useful_copper/models/item/copper_copper_reinforced_hoe.json",
+          "src/main/java/net/mcreator/usefulcopper/item/CopperCopperReinforcedHoeItem.java"
+        ]
+      },
+      "path": "~/Weapons"
+    },
+    {
+      "name": "CopperCopperReinforcedAxe",
+      "type": "tool",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_copper_reinforced_axe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/useful_copper/models/item/copper_copper_reinforced_axe.json",
+          "src/main/java/net/mcreator/usefulcopper/item/CopperCopperReinforcedAxeItem.java"
+        ]
+      },
+      "path": "~/Weapons"
+    },
+    {
+      "name": "WoodenCopperReinforcedAxeRecipe",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wooden_copper_reinforced_axe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/wooden_copper_reinforced_axe_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "WoodenCopperReinforcedPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wooden_copper_reinforced_pickaxe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/wooden_copper_reinforced_pickaxe_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "WoodenCopperReinforcedShovelRecipe",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wooden_copper_reinforced_shovel_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/wooden_copper_reinforced_shovel_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "WoodenCopperReinforcedHoeRecipe",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wooden_copper_reinforced_hoe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/wooden_copper_reinforced_hoe_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "StoneCopperReinforcedAxeRecipe",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_copper_reinforced_axe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/stone_copper_reinforced_axe_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "StoneCopperReinforcedPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_copper_reinforced_pickaxe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/stone_copper_reinforced_pickaxe_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "StoneCopperReinforcedShovelRecipe",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_copper_reinforced_shovel_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/stone_copper_reinforced_shovel_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "StoneCopperReinforcedHoeRecipe",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_copper_reinforced_hoe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/stone_copper_reinforced_hoe_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "IronCopperReinforcedAxeRecipe",
+      "type": "recipe",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_copper_reinforced_axe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/iron_copper_reinforced_axe_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "IronCopperReinforcedShovelRecipe",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_copper_reinforced_shovel_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/iron_copper_reinforced_shovel_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "IronCopperReinforcedSwordRecipe",
+      "type": "recipe",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_copper_reinforced_sword_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/iron_copper_reinforced_sword_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "IronCopperReinforcedPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_copper_reinforced_pickaxe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/iron_copper_reinforced_pickaxe_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "IronCopperReinforcedHoeRecipe",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_copper_reinforced_hoe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/iron_copper_reinforced_hoe_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperCopperReinforcedAxeRecipe",
+      "type": "recipe",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_copper_reinforced_axe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_copper_reinforced_axe_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperCopperReinforcedShovelRecipe",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_copper_reinforced_shovel_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_copper_reinforced_shovel_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperCopperReinforcedHoeRecipe",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_copper_reinforced_hoe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_copper_reinforced_hoe_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperBricks",
+      "type": "block",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_bricks",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/useful_copper/blockstates/copper_bricks.json",
+          "src/main/resources/assets/useful_copper/models/item/copper_bricks.json",
+          "src/main/resources/assets/useful_copper/models/block/copper_bricks.json",
+          "src/main/java/net/mcreator/usefulcopper/block/CopperBricksBlock.java"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "CopperDreams",
+      "type": "musicdisc",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_dreams",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/usefulcopper/item/CopperDreamsItem.java",
+          "src/main/resources/assets/useful_copper/models/item/copper_dreams.json"
+        ]
+      },
+      "path": "~/Music"
+    },
+    {
+      "name": "CopperHammerRecipe",
+      "type": "recipe",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_hammer_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_hammer_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperDustRecipe",
+      "type": "recipe",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_dust_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_dust_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperDust",
+      "type": "item",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_dust",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/useful_copper/models/item/copper_dust.json",
+          "src/main/java/net/mcreator/usefulcopper/item/CopperDustItem.java"
+        ]
+      },
+      "path": "~/Weapons"
+    },
+    {
+      "name": "CopperBricksRecipe",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_bricks_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_bricks_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "SteelIngot",
+      "type": "item",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel_ingot",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/useful_copper/models/item/steel_ingot.json",
+          "src/main/java/net/mcreator/usefulcopper/item/SteelIngotItem.java"
+        ]
+      },
+      "path": "~/Weapons"
+    },
+    {
+      "name": "SteelIngotRecipe",
+      "type": "recipe",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel_ingot_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/steel_ingot_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperHammer",
+      "type": "tool",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_hammer",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/useful_copper/models/item/copper_hammer.json",
+          "src/main/java/net/mcreator/usefulcopper/item/CopperHammerItem.java"
+        ]
+      },
+      "path": "~/Weapons"
+    },
+    {
+      "name": "CopperLog",
+      "type": "block",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_log",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/useful_copper/models/item/copper_log.json",
+          "src/main/resources/assets/useful_copper/blockstates/copper_log.json",
+          "src/main/java/net/mcreator/usefulcopper/block/CopperLogBlock.java",
+          "src/main/resources/assets/useful_copper/models/block/copper_log.json"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "CopperLeaves",
+      "type": "block",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_leaves",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/usefulcopper/block/CopperLeavesBlock.java",
+          "src/main/resources/assets/useful_copper/models/block/copper_leaves.json",
+          "src/main/resources/assets/useful_copper/models/item/copper_leaves.json",
+          "src/main/resources/assets/useful_copper/blockstates/copper_leaves.json"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "CopperLand",
+      "type": "biome",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_land",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/worldgen/biome/copper_land.json",
+          "src/main/resources/data/useful_copper/worldgen/placed_feature/copper_land_tree.json",
+          "src/main/resources/data/useful_copper/worldgen/configured_feature/copper_land_tree.json"
+        ]
+      },
+      "path": "~/Biome"
+    },
+    {
+      "name": "CopperGrass",
+      "type": "block",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_grass",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/useful_copper/blockstates/copper_grass.json",
+          "src/main/java/net/mcreator/usefulcopper/block/CopperGrassBlock.java",
+          "src/main/resources/assets/useful_copper/models/item/copper_grass.json",
+          "src/main/resources/assets/useful_copper/models/block/copper_grass.json"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "CopperDirt",
+      "type": "block",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_dirt",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/usefulcopper/block/CopperDirtBlock.java",
+          "src/main/resources/assets/useful_copper/blockstates/copper_dirt.json",
+          "src/main/resources/assets/useful_copper/models/item/copper_dirt.json",
+          "src/main/resources/assets/useful_copper/models/block/copper_dirt.json"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "CopperPlanks",
+      "type": "block",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_planks",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/useful_copper/blockstates/copper_planks.json",
+          "src/main/java/net/mcreator/usefulcopper/block/CopperPlanksBlock.java",
+          "src/main/resources/assets/useful_copper/models/block/copper_planks.json",
+          "src/main/resources/assets/useful_copper/models/item/copper_planks.json"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "CopperPlanksRecipe",
+      "type": "recipe",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_planks_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_planks_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperSicks",
+      "type": "recipe",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_sicks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_sicks.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperBarrelRecipe",
+      "type": "recipe",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_barrel_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_barrel_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperBedRecipe",
+      "type": "recipe",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_bed_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_bed_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperBedRedRecipe",
+      "type": "recipe",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_bed_red_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_bed_red_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperBedBlueRecipe",
+      "type": "recipe",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_bed_blue_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_bed_blue_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperBedGreenRecipe",
+      "type": "recipe",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_bed_green_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_bed_green_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperBedYellowRecipe",
+      "type": "recipe",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_bed_yellow_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_bed_yellow_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperBeehiveRecipe",
+      "type": "recipe",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_beehive_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_beehive_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperBowlRecipe",
+      "type": "recipe",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_bowl_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_bowl_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperCraftingTable",
+      "type": "recipe",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_crafting_table",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_crafting_table.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperJukeboxRecipe",
+      "type": "recipe",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_jukebox_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_jukebox_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperNoteblockRecipe",
+      "type": "recipe",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_noteblock_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_noteblock_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperShieldRecipe",
+      "type": "recipe",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_shield_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_shield_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperBedGrey",
+      "type": "recipe",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_bed_grey",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_bed_grey.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperBedGreyRecipe",
+      "type": "recipe",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_bed_grey_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_bed_grey_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperBedLightblueRecipe",
+      "type": "recipe",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_bed_lightblue_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_bed_lightblue_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperBedPinkRecipe",
+      "type": "recipe",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_bed_pink_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_bed_pink_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperBedBlackRecipe",
+      "type": "recipe",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_bed_black_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_bed_black_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperBedLightGreen",
+      "type": "recipe",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_bed_light_green",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_bed_light_green.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperBedOrangeRecipe",
+      "type": "recipe",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_bed_orange_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_bed_orange_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperBedTealRecipe",
+      "type": "recipe",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_bed_teal_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_bed_teal_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperBedPurpleRecipe",
+      "type": "recipe",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_bed_purple_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_bed_purple_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperBedLightpurpleRecipe",
+      "type": "recipe",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_bed_lightpurple_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_bed_lightpurple_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperBedBrownRecipe",
+      "type": "recipe",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_bed_brown_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_bed_brown_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperBoatRecipe",
+      "type": "recipe",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_boat_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_boat_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperChestRecipe",
+      "type": "recipe",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_chest_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_chest_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperBookshelfRecipe",
+      "type": "recipe",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_bookshelf_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_bookshelf_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperCartographyTableRecipe",
+      "type": "recipe",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_cartography_table_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_cartography_table_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperFletchingTableRecipe",
+      "type": "recipe",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_fletching_table_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_fletching_table_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperGrindstoneRecipe",
+      "type": "recipe",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_grindstone_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_grindstone_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperLoomRecipe",
+      "type": "recipe",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_loom_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_loom_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperPistonRecipe",
+      "type": "recipe",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_piston_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_piston_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperTripwireHookRecipe",
+      "type": "recipe",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_tripwire_hook_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_tripwire_hook_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperSmithingTableRecipe",
+      "type": "recipe",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_smithing_table_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_smithing_table_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperCampfireRecipe",
+      "type": "recipe",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_campfire_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_campfire_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperSmokerRecipe",
+      "type": "recipe",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_smoker_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_smoker_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperSoulCampfireRecipe",
+      "type": "recipe",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_soul_campfire_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_soul_campfire_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperSignRecipe",
+      "type": "recipe",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_sign_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_sign_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperFenceRecipe",
+      "type": "recipe",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_fence_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_fence_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperDoorRecipe",
+      "type": "recipe",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_door_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_door_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperGateRecipe",
+      "type": "recipe",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_gate_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_gate_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperSlabRecipe",
+      "type": "recipe",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_slab_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/useful_copper/recipes/copper_slab_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "copperdream",
+      "files": [
+        "glitched_reality_-_copper_dreams"
+      ],
+      "category": "record",
+      "subtitle": "dreamy"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.useful_copper.wooden_copper_reinforced_shovel": "Wooden Copper Reinforced Shovel",
+      "item.useful_copper.copper_dreams.desc": "Glitched Reality - Copper dream",
+      "item.useful_copper.copper_dent": "Copper Dent",
+      "item.useful_copper.copper_shovel": "Copper Shovel",
+      "item.useful_copper.stone_copper_reinforced_axe": "Stone Copper Reinforced Axe",
+      "block.useful_copper.copper_bricks": "Copper Bricks",
+      "item.useful_copper.copper_armor_leggings": "Copper Armor Leggings",
+      "subtitles.copperdream": "dreamy",
+      "item.useful_copper.copper_armor_helmet": "Copper Armor Helmet",
+      "item.useful_copper.stone_copper_reinforced_sword": "Stone Copper Reinforced Sword",
+      "block.useful_copper.copper_planks": "Copper Planks",
+      "item.useful_copper.wooden_copper_reinforced_hoe": "Wooden Copper Reinforced Hoe",
+      "item.useful_copper.copper_sword": "Copper Sword",
+      "block.useful_copper.copper_log": "Copper Log",
+      "item.useful_copper.copper_copper_reinforce_sword": "Copper Copper Reinforce Sword",
+      "advancements.raw_copper.title": "Copper?",
+      "item.useful_copper.wooden_copper_reinforced_axe": "Wooden Copper Reinforced Axe",
+      "biome.useful_copper.copper_land": "Copper Land",
+      "item.useful_copper.wooden_copper_reinforced_sword": "Wooden Copper Reinforced Sword",
+      "item.useful_copper.copper_dust": "Copper Dust",
+      "subtitles.copperfunk": "Funky",
+      "block.useful_copper.copper_leaves": "Copper Leaves",
+      "item.useful_copper.iron_copper_reinforced_hoe": "Iron Copper Reinforced Hoe",
+      "advancements.copper.descr": "Get copper for the first time",
+      "item.useful_copper.copper_axe": "Copper Axe",
+      "item.useful_copper.copper_hammer": "Copper Hammer",
+      "item.useful_copper.copper_armor_chestplate": "Copper Armor Chestplate",
+      "item.useful_copper.wooden_copper_reinforced_pickaxe": "Wooden Copper Reinforced Pickaxe",
+      "subtitles.copperdreams": "Coppery",
+      "item.useful_copper.iron_copper_reinforced_pickaxe": "Iron Copper Reinforced Pickaxe",
+      "advancements.copper_useful.descr": "Make something with copper",
+      "item.useful_copper.copper_hoe": "Copper Hoe",
+      "block.useful_copper.copper_dirt": "Copper Dirt",
+      "subtitles.copperfunk2": "Funky",
+      "item.useful_copper.copper_tridenttool": "Copper Tridenttool",
+      "item.useful_copper.copper_copper_reinforced_hoe": "Copper Copper Reinforced Hoe",
+      "item.useful_copper.stone_copper_reinforced_shovel": "Stone Copper Reinforced Shovel",
+      "item.useful_copper.copper_dreams": "Music Disc",
+      "item.useful_copper.iron_copper_reinforced_sword": "Iron Copper Reinforced Sword",
+      "item.useful_copper.copper_copper_reinforced_axe": "Copper Copper Reinforced Axe",
+      "item.useful_copper.copper_copper_reinforced_pickaxe": "Copper Copper Reinforced Pickaxe",
+      "advancements.copper_useful.title": "Copper Useful!",
+      "item.useful_copper.copper_pickaxe": "Copper Pickaxe",
+      "advancements.raw_copper.descr": "Get raw copper",
+      "item.useful_copper.stone_copper_reinforced_pickaxe": "Stone Copper Reinforced Pickaxe",
+      "item.useful_copper.copper_copper_reinforced_shovel": "Copper Copper Reinforced Shovel",
+      "block.useful_copper.copper_grass": "Copper Grass",
+      "item.useful_copper.stone_copper_reinforced_hoe": "Stone Copper Reinforced Hoe",
+      "item.useful_copper.copper_armor_boots": "Copper Armor Boots",
+      "item.useful_copper.iron_copper_reinforced_axe": "Iron Copper Reinforced Axe",
+      "item.useful_copper.copper_rod": "Copper Rod",
+      "item.useful_copper.iron_copper_reinforced_shovel": "Iron Copper Reinforced Shovel",
+      "item.useful_copper.steel_ingot": "Steel Ingot",
+      "advancements.copper.title": "So Useless"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Weapons",
+        "children": []
+      },
+      {
+        "name": "Recipes",
+        "children": []
+      },
+      {
+        "name": "Armor",
+        "children": []
+      },
+      {
+        "name": "Advancements",
+        "children": []
+      },
+      {
+        "name": "Code",
+        "children": []
+      },
+      {
+        "name": "Music",
+        "children": []
+      },
+      {
+        "name": "Blocks",
+        "children": []
+      },
+      {
+        "name": "Biome",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "useful_copper",
+    "modName": "Useful Copper",
+    "version": "1.0.0",
+    "author": "Ironm, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "modElementsPackage": "net.mcreator.usefulcopper",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300452316
+}

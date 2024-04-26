@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "useful_copper:copper_planks"
+    }
+  },
+  "result": {
+    "item": "minecraft:oak_button",
+    "count": 1
+  }
+}

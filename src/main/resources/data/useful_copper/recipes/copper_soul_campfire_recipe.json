@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    "ccc"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:stick"
+    },
+    "b": {
+      "item": "minecraft:soul_sand"
+    },
+    "c": {
+      "item": "useful_copper:copper_log"
+    }
+  },
+  "result": {
+    "item": "minecraft:soul_campfire",
+    "count": 1
+  }
+}
